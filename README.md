@@ -1,11 +1,11 @@
-# pindie-frontend
+# pindie
 
-Мой фронтенд: <https://pindie-work-front.nomoredomainswork.ru/>
+Мой бэкэнд: <https://danula-ded-front.nomoredomainswork.ru/>
 
-Ссылка на репозиторий с фронтендом: <https://github.com/SergeyG0795/Pindie-Frontend>
+Ссылка на репозиторий с фронтендом: <https://github.com/danula-ded/Pindie-next-app>
 
-Мой бэкэнд: <https://pindie-work.nomoredomainswork.ru/>
+Ссылка на репозиторий с бэкендом: <https://github.com/danula-ded/pindie-backend>
 
-Ссылка на репозиторий с бэкендом: <https://github.com/SergeyG0795/Pindie-Backend>
+Ссылка на домен фронтенда: <https://danula-ded-back.nomoredomainswork.ru/>
 
-IP-адрес: 158.160.171.130
+IP-адрес: 158.160.168.187
